@@ -1,4 +1,4 @@
-# Logging server and client
+These are the specifications for implementing the logging server
 
 ## Client
 
